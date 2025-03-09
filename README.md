@@ -108,9 +108,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-Created by [cpknight](https://github.com/cpknight)
+Created by ~[cpknight](https://github.com/cpknight)~ ... I can't take credit. Claude `3.7 sonnet` by way of Warp wrote it - this is another AI-generated project!
 
